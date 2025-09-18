@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bogumil-Bar
+- 👋 Hi, I’m Bogumil-Bar
 - 👀 I’m interested in PHP backend
 - currently freelancer on mobile aps
 
